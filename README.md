@@ -63,6 +63,11 @@ Report will include the following:
   * Item Price
   * Total Purchase Value
 
+### Steps to run the code
+
+![image](https://user-images.githubusercontent.com/83512824/146649307-19ba3f6e-4dd8-43ff-8539-36ba7ae5ba03.png)
+
+
 
 
 
