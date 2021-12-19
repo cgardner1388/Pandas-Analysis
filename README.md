@@ -2,7 +2,11 @@
 
 ## Heroes of Pymoli
 
-Report will include the following:
+## Background
+
+* Utilizing the pandas library wihtin python to import and manipulate data related to the game "Heroes of Pymoli". I performed different types of anlaysis which will be displayed below such as player count, gender demographics, top spenders, etc. 
+
+### Analysis Summary
 
 ### Player Count
 
