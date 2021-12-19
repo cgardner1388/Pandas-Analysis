@@ -1,6 +1,4 @@
-# Pandas
-
-## Heroes of Pymoli
+## Pandas Analysis - Video Game "Heroes of Pymoli"
 
 ## Background
 
