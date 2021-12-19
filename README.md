@@ -5,14 +5,14 @@
 * Utilizing the pandas library wihtin python to import and manipulate data related to the game "Heroes of Pymoli". I performed different types of anlaysis which will be displayed below such as player count, gender demographics, top spenders, etc. 
 
 ### Analysis Summary
-  ### Player Count
-  ### Purchasing Analysis (Total)
-•	Gender Demographics
-•	Purchasing Analysis (Gender)
-•	Age Demographics
-•	Top Spenders
-•	Most Popular Items
-•	Most Profitable Items
+  ## Player Count
+  ## Purchasing Analysis (Total)
+  ## Gender Demographics
+  ## Purchasing Analysis (Gender)
+  ## Age Demographics
+  ## Top Spenders
+  ## Most Popular Items
+  ## Most Profitable Items
 
 ### Steps to run the code
 
