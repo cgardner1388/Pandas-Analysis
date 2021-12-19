@@ -6,11 +6,6 @@
 
 ### Analysis Summary
 
-*Player Count, 
-*Purchasing Analysis (Total), Gender Demographics, Purchasing Analysis (Gender), Age Demographics, Top Spenders, Most Popular Items, Most Profitable Items
-
-### Steps to run the code
-
 ### Import Dependencies and Libraries
 
 ![image](https://user-images.githubusercontent.com/83512824/146649307-19ba3f6e-4dd8-43ff-8539-36ba7ae5ba03.png)
